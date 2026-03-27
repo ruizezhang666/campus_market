@@ -1,0 +1,13 @@
+[
+  {
+    "type": "sell",
+    "name": "二手洗衣机",
+    "price": "150",
+    "img": "",
+    "student_id": "202435020360",
+    "category": "生活用品",
+    "description": "2024年购入，95新",
+    "sold": false,
+    "time": "2026-03-26 22:41"
+  }
+]
